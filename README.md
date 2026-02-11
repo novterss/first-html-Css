@@ -1,10 +1,6 @@
 # 🖤 My First HTML & CSS Project - Kuromint Theme
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=waving&color=ff66cc&height=200&section=header&text=My%20First%20Web&fontSize=70&animation=fadeIn" alt="Header" />
-</p>
-
-<p align="center">
   <a href="https://novterss.github.io/first-html-Css/">
     <img src="https://img.shields.io/badge/Live_Demo-Visit_Site-ff66cc?style=for-the-badge&logo=githubpages&logoColor=white" alt="Live Demo" />
   </a>
